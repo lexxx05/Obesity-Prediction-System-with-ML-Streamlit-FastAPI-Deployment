@@ -1,4 +1,4 @@
-# WeightWise: Obesity Risk Prediction Pipeline
+# Obesity Prediction System with Machine Learning Streamlit and Fast API Deployment
 
 ## Project Overview
 This project aims to develop an **end-to-end machine learning pipeline** to predict obesity risk levels based on personal, lifestyle, and dietary factors. The workflow covers all major stages of a data science lifecycle — starting from **Exploratory Data Analysis (EDA)**, through **data preprocessing and model training**, to **deployment via FastAPI and Streamlit**.
